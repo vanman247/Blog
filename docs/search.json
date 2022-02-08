@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-08T10:31:36-07:00"
+      "last_modified": "2022-02-08T10:48:44-07:00"
     },
     {
       "path": "index.html",
       "title": "A Cool Fake Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-08T10:31:38-07:00"
+      "last_modified": "2022-02-08T10:48:48-07:00"
     }
   ],
   "collections": ["posts/posts.json"]

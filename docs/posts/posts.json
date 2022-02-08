@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-02-08-introduction-to-senior-project/",
+    "title": "Introduction to Senior Project",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Katie Allen",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-02-08",
+    "categories": [],
+    "contents": "\r\nHey! This is my first blog post.\r\nHeader 1\r\nMy project is really cool.\r\nHeader 2\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-08T10:47:56-07:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to A Cool Fake Blog",
     "description": "Welcome to our new blog, A Cool Fake Blog. We hope you enjoy \nreading what we have to say!",
